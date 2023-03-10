@@ -12,7 +12,7 @@ import com.google.firebase.ktx.Firebase
 
 class MainActivity : AppCompatActivity() {
 
-    // Skapa en instans av Firebase Authentication
+
     private lateinit var auth: FirebaseAuth
 
     private lateinit var emailEditText: EditText
